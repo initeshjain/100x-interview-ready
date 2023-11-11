@@ -1,0 +1,14 @@
+## Here are the top-most asked questions:
+- Write a code to compute the square root of a given number.
+- Write a program to complete an incomplete 9x9 Sudoku frame accurately.
+- Write a program to convert a long URL to a short URL leading to the same web page.
+- Write a code to convert a given set of integers into their Roman number equivalents.
+- Write a program to find out if a given number “N” is sparse. (A number is said to be sparse if no two bits are in binary representation).
+- Find the length of the longest increasing subsequence from a given array of n integers.
+- Write a program to find the maximum sum increasing subsequence of a given array arr[].
+- Write a program to find the index of a given element in array ‘A’ that is both sorted and rotated.
+- Divide an array consisting of integer elements into two sets such that the difference between the sum of both sets is an absolute minimum.
+- Design an API rate limiter.
+- Design a proximity server.
+- Design Google’s web crawler.
+- Design an e-commerce website.
